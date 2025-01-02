@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e83af5fc.css",
+    "main.js": "/Portfolio/static/js/main.e36420ce.js",
+    "static/js/770.b477def6.chunk.js": "/Portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/parallax.png": "/Portfolio/static/media/parallax.407dd35e43ea81eafccf.png",
+    "static/media/Clickgame.png": "/Portfolio/static/media/Clickgame.781804234fff0dda350f.png",
+    "static/media/pariresumefinal.pdf": "/Portfolio/static/media/pariresumefinal.8d05cc41a4a9d9fbad7c.pdf",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/HTML.png": "/Portfolio/static/media/HTML.ddf180f60ce428ccd16d.png",
+    "static/media/Pic.jpg": "/Portfolio/static/media/Pic.c0331d1e1114fc2b235f.jpg",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.e83af5fc.css.map": "/Portfolio/static/css/main.e83af5fc.css.map",
+    "main.e36420ce.js.map": "/Portfolio/static/js/main.e36420ce.js.map",
+    "770.b477def6.chunk.js.map": "/Portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83af5fc.css",
+    "static/js/main.e36420ce.js"
+  ]
+}
